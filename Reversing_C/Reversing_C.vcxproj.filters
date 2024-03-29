@@ -21,5 +21,14 @@
     <ClCompile Include="02_DebugExercise.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="04-1_StackFrame_asm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="04-2_StackFrame_szBuffer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="04-3_StackFrame_Notepad.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
