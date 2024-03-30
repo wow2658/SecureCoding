@@ -30,7 +30,10 @@
     <ClCompile Include="04-3_StackFrame_Notepad.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="06_Remote calc execution.c">
+    <ClCompile Include="06-1_Remote calc execution.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06-2_shellcode.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
